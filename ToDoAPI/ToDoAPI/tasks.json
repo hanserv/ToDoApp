@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Title": "Nada xd",
+    "Description": "Nada",
+    "CreatedAt": "2026-03-14",
+    "DateLimit": "2026-03-15",
+    "Status": 2
+  },
+  {
+    "Id": 2,
+    "Title": "Ver una movie",
+    "Description": "Interestelar",
+    "CreatedAt": "2026-03-14",
+    "DateLimit": "2026-03-14",
+    "Status": 2
+  },
+  {
+    "Id": 3,
+    "Title": "Test",
+    "Description": "esto es un test",
+    "CreatedAt": "2026-03-14",
+    "DateLimit": "2026-03-14",
+    "Status": 1
+  }
+]

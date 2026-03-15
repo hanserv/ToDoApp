@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\repositories\\repos\\taskrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\repositories\\repos\\taskrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\hanse\\onedrive\\escritorio\\itla\\2026-c1\\programacion ii\\todoapi\\todoapi\\dtos\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB88ED3-5E0B-4372-9498-77A94CE9C1B9}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\dtos\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Enums\\TasksStatus.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Enums\\TasksStatus.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Enums\\TasksStatus.cs",
+              "RelativeToolTip": "ToDoAPI\\Enums\\TasksStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:47:04.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\DTOs\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\CreateTaskRequest.cs",
+              "RelativeToolTip": "ToDoAPI\\DTOs\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:05:03.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Entities\\TodoTask.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Entities\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Entities\\TodoTask.cs",
+              "RelativeToolTip": "ToDoAPI\\Entities\\TodoTask.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:08:47.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Services\\TaskService.cs",
+              "RelativeToolTip": "ToDoAPI\\Services\\TaskService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:36:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Services\\ITaskService.cs",
+              "RelativeToolTip": "ToDoAPI\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:36:25.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "ToDoAPI\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:54:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ToDoAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswHoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:29:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Program.cs",
+              "RelativeToolTip": "ToDoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:54:36.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskRepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Repositories\\Repos\\TaskRepositoryJson.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Repositories\\Repos\\TaskRepositoryJson.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\Repositories\\Repos\\TaskRepositoryJson.cs",
+              "RelativeToolTip": "ToDoAPI\\Repositories\\Repos\\TaskRepositoryJson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:54:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoAPI",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeDocumentMoniker": "ToDoAPI\\ToDoAPI.csproj",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeToolTip": "ToDoAPI\\ToDoAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T00:09:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\DTOs\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "ToDoAPI\\DTOs\\UpdateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:16:03.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\DTOs\\TaskResponse.cs",
+              "ToolTip": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\DTOs\\TaskResponse.cs",
+              "RelativeToolTip": "ToDoAPI\\DTOs\\TaskResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:12:12.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
