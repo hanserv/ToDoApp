@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,900&family=Jockey+One&family=Lobster&family=Poppins:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+.font-primary {
+  font-family: "Lobster", sans-serif;
+}
+.font-secundary {
+  font-family: "Jockey One", sans-serif;
+}
+.font-modern {
+  font-family: "Inter", sans-serif;
+}
+.font-buttons {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
