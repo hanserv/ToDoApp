@@ -1,2 +1,3 @@
 # ToDo List
-## C# ASP.NET CORE
+## C# ASP.NET CORE (Web API)
+### Vue.js (Frontend)
