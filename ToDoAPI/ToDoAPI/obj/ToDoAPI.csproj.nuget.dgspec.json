@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
+    "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoApp\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
+    "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoApp\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoApp\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "projectName": "ToDoAPI",
-        "projectPath": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectPath": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoApp\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "packagesPath": "C:\\Users\\hanse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoAPI\\ToDoAPI\\obj\\",
+        "outputPath": "C:\\Users\\hanse\\OneDrive\\Escritorio\\ITLA\\2026-C1\\Programacion II\\ToDoApp\\ToDoAPI\\ToDoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

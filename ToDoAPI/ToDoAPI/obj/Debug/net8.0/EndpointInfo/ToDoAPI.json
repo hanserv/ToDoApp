@@ -222,7 +222,7 @@
           },
           "description": {
             "maxLength": 200,
-            "minLength": 4,
+            "minLength": 0,
             "type": "string",
             "nullable": true
           },
@@ -286,7 +286,7 @@
           },
           "description": {
             "maxLength": 200,
-            "minLength": 4,
+            "minLength": 0,
             "type": "string",
             "nullable": true
           },

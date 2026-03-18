@@ -83,6 +83,9 @@ namespace ToDoAPI.Services
 
             var task = await _repository.GetByIdAsync(id);
 
+            if (task.Status == TasksStatus.Completed)
+                throw new Exception("No se puede actualizar una tarea completada");
+
             if (task is null)
                 throw new ArgumentException("La tarea no existe");
 
